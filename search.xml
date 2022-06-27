@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/06/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>asdf</p>
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>创建测试</title>
+    <url>/2022/06/15/%E5%88%9B%E5%BB%BA%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>这里显示toc</p>
+<ol>
+<li>dsa</li>
+</ol>
+<h1 id="一博爱"><a href="#一博爱" class="headerlink" title="一博爱"></a>一博爱</h1><div class="gallery-group-main">
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">壁纸</div>
+  <p>收藏的一些壁纸</p>
+  <a href='/Gallery/wallpaper'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">漫威</div>
+  <p>关于漫威的图片</p>
+  <a href='/Gallery/marvel'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">OH MY GIRL</div>
+  <p>关于OH MY GIRL的图片</p>
+  <a href='/www.baidu.com'></a>
+  </figcaption>
+  </figure>
+  
+</div>
+
+
+
+<div class="fj-gallery"><p><img src="https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg"><br><img src="https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg"><br><img src="https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg"><br><img src="https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg"><br><img src="https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg"><br><img src="https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg"><br><img src="https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg"><br><img src="https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg"></p>
+          </div>
+
+<p>哪个英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案
+  </button><span class="hide-content">因为西装裤(C装酷)</span></span></p>
+<p>门里站着一个人? <span class="hide-inline"><button type="button" class="hide-button" style="">Click
+  </button><span class="hide-content">闪</span></span></p>
+]]></content>
+      <tags>
+        <tag>我是标签</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>北漂</title>
+    <url>/2022/06/20/%E5%8C%97%E6%BC%82/</url>
+    <content><![CDATA[<h3 id="北漂生活"><a href="#北漂生活" class="headerlink" title="北漂生活"></a>北漂生活</h3><p><img src="/images/%E4%BB%A3%E7%A0%81%E5%90%AF%E5%8A%A8.jpg" alt="代码启动"></p>
+<p>​	人活着这一辈子究竟是为了什么，应该怎样去生活，应该去追逐什么，我想很多人的心里都充满了大大的问号，即使一些看似生活充实快乐的人，其实也是在换着方式混日子，有时候它的答案很简单，简单到就在我们身边，有时候它的答案又很难，好像离我们十万八千里。生活好像应了这句话<strong>“总在盼望，总在失望，人生还不都是这样，俗的无味，雅的轻狂。”</strong></p>
+<p>​	<strong>什么是生活呢？我想生活首先是为了生计，然后就是充实自我的过程</strong>，生活要充满斗志，生活要懂得取舍，生活不光是物质的财富，更是精神的富裕，交到几个知心朋友一起谈天说地，一起分享自己身边的小事情，就这样一直走下去；给自己独处和思考的空间，找一个咖啡厅坐下，静下来慢慢地去打量这个世界，在车水马龙中去发现周边的美好与感动；<strong>生活不止是出去闯荡，更要多关心家人，生活就是一大家子的陪伴，黄红酒绿的闹市永远比不上和善温馨的家庭，家人的平平安安就是生活的最终目的。</strong></p>
+<p>​																																				———–《转自知乎–生活》</p>
+<p>​	不公的待遇，不公的生活。</p>
+]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+        <tag>记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2022/06/15/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>browsersync:<br>  logLevel: “warn”<br>  ghostMode:<br>    scroll: true<br>  instanceName: “uniqueString”</p>
+<p>这个插件很牛</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> a=<span class="number">10</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> i=<span class="number">0</span>; i&lt;<span class="number">10</span>; i++)&#123;</span><br><span class="line">    a+=i;fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>测试文档</tag>
+      </tags>
+  </entry>
+</search>
