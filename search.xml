@@ -4,8 +4,7 @@
     <title>Hello World</title>
     <url>/2022/06/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>asdf</p>
-<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
@@ -18,6 +17,31 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>测试文档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>下雨</title>
+    <url>/2024/05/06/%E4%B8%8B%E9%9B%A8/</url>
+    <content><![CDATA[<p>​		沉默就常常是必要的，沉默可以通向有声有形的语言所不能到达的地方，就像浪，舒缓下来，感悟到了水的深阔、水对浪的包容、水于浪永久的梦想意义。</p>
+<p>​		死是一件无须乎着急去做的事，是一件无论怎样耽搁也不会错过了的事，一个必然会降临的节日。 我等你，直到垂暮之年，野草有了一百代子孙，那条长椅上依然空留着一个位置…… 梦想使你迷醉，距离就成了欢乐；追求使你充实，失败和成功都是伴奏；当生命以美的形式证明其价值的时候，幸福是享受，痛苦也是享受。 人不是苟死苟活的物类，不是以过程的漫长为自豪，而是以过程的精彩、尊贵和独具爱愿为骄傲的。</p>
+<p>禁止讲话，少说多看，没有交集少交朋友</p>
+<p>人有时候只想独自静静的呆一会，悲伤也成享受。（史铁生）</p>
+<p>寂寞会发慌，孤独则是饱满的。（史铁生）</p>
+<p>残缺就是孤独，寻求弥补就是要摆脱孤独。（史铁生）</p>
+<p>永恒孤独的现实才能承载永恒爱情的理想。（史铁生）</p>
+<p>旅游旅游！！！</p>
+<p>我想要生活自由，永远自由，永远内卷</p>
+<p>自由！！~</p>
+]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+        <tag>记录</tag>
+      </tags>
   </entry>
   <entry>
     <title>专科生的出路</title>
@@ -35,18 +59,12 @@
       </tags>
   </entry>
   <entry>
-    <title>下雨</title>
-    <url>/2024/05/06/%E4%B8%8B%E9%9B%A8/</url>
-    <content><![CDATA[<p>​		沉默就常常是必要的，沉默可以通向有声有形的语言所不能到达的地方，就像浪，舒缓下来，感悟到了水的深阔、水对浪的包容、水于浪永久的梦想意义。</p>
-<p>​		死是一件无须乎着急去做的事，是一件无论怎样耽搁也不会错过了的事，一个必然会降临的节日。 我等你，直到垂暮之年，野草有了一百代子孙，那条长椅上依然空留着一个位置…… 梦想使你迷醉，距离就成了欢乐；追求使你充实，失败和成功都是伴奏；当生命以美的形式证明其价值的时候，幸福是享受，痛苦也是享受。 人不是苟死苟活的物类，不是以过程的漫长为自豪，而是以过程的精彩、尊贵和独具爱愿为骄傲的。</p>
-<p>禁止讲话，少说多看，没有交集少交朋友</p>
-<p>人有时候只想独自静静的呆一会，悲伤也成享受。（史铁生）</p>
-<p>寂寞会发慌，孤独则是饱满的。（史铁生）</p>
-<p>残缺就是孤独，寻求弥补就是要摆脱孤独。（史铁生）</p>
-<p>永恒孤独的现实才能承载永恒爱情的理想。（史铁生）</p>
-<p>旅游旅游！！！</p>
-<p>我想要生活自由，永远自由，永远内卷</p>
-<p>自由！！~</p>
+    <title>两岸猿声啼不住轻舟已过万重山</title>
+    <url>/2024/05/25/%E4%B8%A4%E5%B2%B8%E7%8C%BF%E5%A3%B0%E5%95%BC%E4%B8%8D%E4%BD%8F%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1/</url>
+    <content><![CDATA[<h2 id="教育具有长期性和滞后性"><a href="#教育具有长期性和滞后性" class="headerlink" title="教育具有长期性和滞后性"></a>教育具有长期性和滞后性</h2><p>​	就像是一个闭环，多年后，你有一个瞬间突然意识到什么，那就是子弹命中的瞬间，此时才是教育的完成。</p>
+<p>谈恋爱时才读懂《氓》年少时，我们总以为爱情是山盟海誓的热烈，是奋不顾身勇敢，但爱过才懂得，爱情其实是一场博弈，若一方姿态卑微，另一方便得寸进尺。</p>
+<p>​	升学考公时才读懂《范进中举》一清二白的范进，屡次在科考中落榜，岳父母瞧不起，乡亲邻里嘲笑他，就连小孩子也常捉弄他，但他受助了白眼，扛下了压力，日复一日的埋头读书，苦熬三十多年，他终于考中了举人。</p>
+<p>​	找工作时才读懂《孔乙己》孔乙己脱不下身上的长衫，我们也下不了学历的高台。在所谓的体面与生活之间反复挣扎，然后这个世界最没用的就是面子，而谈婚论嫁时才读懂《孔雀东南飞》，原来，婚姻承载的不只是两个人的酸甜苦辣，还有两个家庭的喜怒哀乐，我们在婚姻中的一言一行，都带着各自原生家庭的影子，这就是教育的及时性和延时性，教育提前为你灌输思想，而在你拥有阅历的那一刻醍醐灌顶茅塞顿开。这就意味着之前的文章与老师，才真正意义上的完成了他们的任务。</p>
 ]]></content>
       <categories>
         <category>记录</category>
@@ -137,6 +155,19 @@
 ]]></content>
       <tags>
         <tag>测试文档</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>轮回的子弹</title>
+    <url>/2024/05/25/%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%AD%90%E5%BC%B9/</url>
+    <content><![CDATA[<p>​	当有一天，我真的站上讲台，才明白当初我的老师，歇斯底里给我们讲的道理不掺半分的假，而是用自己的亲身经历堆积起来的遗憾。现在，我学着老师的样子，想把这些道理传授给我的学生，我想尽办法想要让他们清醒些，想尽办法让我的课堂更加有趣，让我的学生真的专注，想尽一切希望把知识让他们记在脑子里，一节课哪儿怕是有一个单词的收获，也好过木头般呆呆地坐着，我努力地想要产生他们的内驱力，可是我发现我错了，我做不到。我一遍又一遍重复地讲着我讲过的知识，我一直坚持一遍又一遍详细地讲只是想万一我的学生心血来潮听一听希望他听得懂，可是看着台下无动于衷的学生，我发现我会烦，会失落。<br>刚刚在课上我一遍又一遍叫醒睡觉的学生，一遍又一遍地提醒他们听课记笔记，一个接一个地提问我讲过的知识，一遍又一遍地说着我的老师说过的话，我发现我的老师的歇斯底里淋漓尽致体现在我的身上，我想叫醒他们，可是我怎么也叫不醒。<br>我也试图让花成花，让树成树，可每当我站在讲台上，发现不认真溜号的学生，我还是忍不住，更控制不住自己的情绪，可是我叫不醒他们，亦叫不醒多年前的自己。我苦口婆心成了他们心中最不爱听的唠叨，很无力却也很想拉他们一把，可是他们甚至连手都懒得伸出来，我总是说，人不自救谁也救不了你，你放弃了自己谁也拽不动你。我也会告诉自己尊重他人命运，但心中难免挫败。教育，在此刻形成了闭环。</p>
+]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+        <tag>记录</tag>
       </tags>
   </entry>
 </search>
